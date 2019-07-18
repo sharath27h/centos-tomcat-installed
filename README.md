@@ -5,4 +5,4 @@ Tomcat server running in Centos container. To be used for Dev and Test purpose o
 # Usage
 Run the container:
 
-docker run -d -p 9000:8080 <IMAGE_ID>
+docker run -d -p 9000:8080 sharathah27/centos-tomcat-installed
